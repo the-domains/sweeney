@@ -1,0 +1,28 @@
+name: Sweeney
+favicon: null
+layout_spectrum: 0.4528681393712759
+typography_spectrum: 0.2843689238652587
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.28758288989774883
+  lightness: 0.07243809127248824
+  saturation: 0.6570185762830079
+  rhythmicContrast: 0.6176312924362719
+purpose: []
