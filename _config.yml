@@ -1,7 +1,7 @@
 name: Sweeney
 favicon: null
 layout_spectrum: 0.4528681393712759
-typography_spectrum: 0.2843689238652587
+typography_spectrum: 0.81996
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.28758288989774883
-  lightness: 0.07243809127248824
+  brandStrength: 0.6875
+  lightness: 0.4375
   saturation: 0.6570185762830079
-  rhythmicContrast: 0.6176312924362719
+  rhythmicContrast: 0.75
 purpose: []
