@@ -1,11 +1,7 @@
-cta:
-  bucket: null
-  version: null
-  domain: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: Just Being Sweeney
+favicon: null
+layout_spectrum: 0.5322581
+typography_spectrum: 0.81996
 collections:
   - index:
       path: /
@@ -18,23 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6570186
-  brandStrength: 0.4892473
-  lightness: 0.7598566
   brandColors:
     - '#2F4239'
     - '#879B9A'
     - '#BDCEE0'
     - '#F39388'
     - '#39B3E8'
+  brandStrength: 0.4892473
+  lightness: 0.7598566
+  saturation: 0.6570186
   rhythmicContrast: 0.75
-typography_spectrum: 0.81996
-layout_spectrum: 0.5322581
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Sweeney
+purpose: []
