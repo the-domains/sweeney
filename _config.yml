@@ -1,28 +1,40 @@
-name: Sweeney
-favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.81996
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#f4e9e3'
-    - '#536d8e'
-    - '#050e17'
-    - '#385273'
-    - '#939eb0'
-  brandStrength: 0.6875
-  lightness: 0.4375
-  saturation: 0.6570185762830079
-  rhythmicContrast: 0.75
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.6570185762830079
+  brandStrength: 0.7921147
+  lightness: 0.4375
+  brandColors:
+    - '#FFFFFF'
+    - '#2F322F'
+    - '#6E6D65'
+    - '#B47E65'
+    - '#D7CF65'
+  rhythmicContrast: 0.75
+typography_spectrum: 0.81996
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Sweeney
