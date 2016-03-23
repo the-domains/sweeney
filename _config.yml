@@ -1,5 +1,7 @@
-favicon: null
-name: Sweeney
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -18,9 +20,9 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.6570185762830079
+  saturation: 0.6570186
   brandStrength: 0.7921147
-  lightness: 0.4375
+  lightness: 0.7598566
   brandColors:
     - '#FFFFFF'
     - '#2F322F'
@@ -29,12 +31,10 @@ color:
     - '#D7CF65'
   rhythmicContrast: 0.75
 typography_spectrum: 0.81996
-layout_spectrum: 0.5322581
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 cta:
   bucket: null
   version: null
   domain: null
+layout_spectrum: 0.5322581
+favicon: null
+name: Sweeney
