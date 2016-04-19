@@ -4,7 +4,7 @@
         <description><![CDATA[Just Being Sweeney]]></description>
         <link>http://www.justbeingsweeney.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 00:49:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 01:16:23 GMT</lastBuildDate>
         <atom:link href="http://www.justbeingsweeney.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[So Here We Are]]></title>
@@ -12,13 +12,6 @@
             <link>http://www.justbeingsweeney.com/so-here-we-are/index.html</link>
             <guid isPermaLink="false">b759be79-1e87-4f2e-9656-8ea313b42023</guid>
             <pubDate>Fri, 15 Apr 2016 20:59:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Steve & Rex's Excellent Adventure ]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc953662-e8b2-4721-b9e8-e5551f749e35.png">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc953662-e8b2-4721-b9e8-e5551f749e35.png</link>
-            <guid isPermaLink="false">e474a110-dff8-4cf4-a0b2-785f64e4971b</guid>
-            <pubDate>Tue, 19 Apr 2016 00:49:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
