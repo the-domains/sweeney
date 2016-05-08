@@ -1,13 +1,12 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: Before Tough Mudder
-datePublished: '2016-05-08T01:33:49.198Z'
-dateModified: '2016-05-08T01:33:28.770Z'
+datePublished: '2016-05-08T01:39:07.735Z'
+dateModified: '2016-05-08T01:38:14.717Z'
 title: Before the Tough Mudder
 author:
   - name: ''
@@ -20,7 +19,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-_type: Blurb
+url: before-the-tough-mudder/index.html
+_type: Article
 
 ---
 2016 Atlanta Tough Mudder
