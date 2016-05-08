@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: Before Tough Mudder
-datePublished: '2016-05-08T01:32:33.898Z'
-dateModified: '2016-05-08T01:32:30.141Z'
+datePublished: '2016-05-08T01:33:49.198Z'
+dateModified: '2016-05-08T01:33:28.770Z'
 title: Before the Tough Mudder
 author:
   - name: ''
