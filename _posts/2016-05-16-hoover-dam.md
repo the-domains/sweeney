@@ -1,15 +1,24 @@
 ---
-title: ''
-datePublished: '2016-05-16T06:19:33.329Z'
-dateModified: '2016-05-16T06:17:58.858Z'
-author: []
-description: Hoover Dam
-starred: false
-sourcePath: _posts/2016-05-16-hoover-dam.md
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-_type: MediaObject
+inLanguage: null
+keywords: []
+description: Hoover Dam
+datePublished: '2016-05-17T02:57:08.647Z'
+dateModified: '2016-05-17T02:53:39.546Z'
+title: ''
+author: []
+sourcePath: _posts/2016-05-16-hoover-dam.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
+url: hoover-dam/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d31722c7-4729-46ae-a31e-9ce98570796e.jpg)
