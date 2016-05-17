@@ -4,7 +4,7 @@
         <description><![CDATA[Just Being Sweeney]]></description>
         <link>http://www.justbeingsweeney.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 02:58:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2016 02:58:33 GMT</lastBuildDate>
         <atom:link href="http://www.justbeingsweeney.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[So Here We Are]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.justbeingsweeney.com/so-here-we-are/index.html</link>
             <guid isPermaLink="false">b759be79-1e87-4f2e-9656-8ea313b42023</guid>
             <pubDate>Fri, 15 Apr 2016 20:59:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Austin, Texas ]]></title>
+            <description><![CDATA[<article><h1>Austin, Texas </h1><p>Austin, Tx</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5efebc0-3aeb-4c5d-9d94-01f63512764d.jpg"></article>]]></description>
+            <link>http://www.justbeingsweeney.com/austin-texas/index.html</link>
+            <guid isPermaLink="false">a705c0ed-7b61-470f-8be8-60e62757e64e</guid>
+            <pubDate>Tue, 17 May 2016 02:58:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Flagstaff ]]></title>
