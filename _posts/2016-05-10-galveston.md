@@ -1,15 +1,24 @@
 ---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
+description: Galveston
+datePublished: '2016-05-17T02:58:22.402Z'
+dateModified: '2016-05-17T02:51:15.088Z'
 author: []
 title: 'Galveston '
-description: Galveston
-dateModified: '2016-05-10T20:48:54.973Z'
-datePublished: '2016-05-10T20:49:23.750Z'
-starred: false
 sourcePath: _posts/2016-05-10-galveston.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
+url: galveston/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b31eacd8-50cc-46d2-bb41-90f2d3fc8c9d.jpg)
