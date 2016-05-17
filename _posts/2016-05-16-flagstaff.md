@@ -1,15 +1,24 @@
 ---
-title: 'Flagstaff '
-datePublished: '2016-05-16T06:18:37.757Z'
-dateModified: '2016-05-15T03:51:28.171Z'
-author: []
-description: Flagstaff
-starred: false
-sourcePath: _posts/2016-05-16-flagstaff.md
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-_type: MediaObject
+inLanguage: null
+keywords: []
+description: Flagstaff
+datePublished: '2016-05-17T02:58:03.678Z'
+dateModified: '2016-05-17T02:51:37.561Z'
+title: 'Flagstaff '
+author: []
+sourcePath: _posts/2016-05-16-flagstaff.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
+url: flagstaff/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef7c72d2-a03d-4971-b836-19e86ba14644.jpg)
